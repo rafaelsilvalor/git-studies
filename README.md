@@ -18,8 +18,8 @@ This is a repository created with the purpose of learning and practicing the use
 - [X] Initializing a Git repository (`git init`).
 - [x] Adding files to the repository (`git add`).
 - [x] Creating commits with descriptive messages (`git commit`).
-- [ ] Branching and merging branches (`git branch`, `git merge`).
-- [ ] Working with remote repositories (`git remote`, `git push`, `git pull`).
+- [x] Branching and merging branches (`git branch`, `git merge`).
+- [x] Working with remote repositories (`git remote`, `git push`, `git pull`).
 - [ ] Resolving merge conflicts (`git merge`, `git rebase`).
 - [ ] Branch management (`git checkout`, `git stash`, `git cherry-pick`).
 - [ ] Using tags to mark commits (`git tag`).
