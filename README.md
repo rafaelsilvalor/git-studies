@@ -46,8 +46,8 @@ Este é um repositório criado com o propósito de aprender e praticar o uso do 
 - [x] Inicialização de um repositório Git (`git init`).
 - [x] Adicionar arquivos ao repositório (`git add`).
 - [x] Criar commits com mensagens descritivas (`git commit`).
-- [ ] Ramificação e mesclagem de branches (`git branch`, `git merge`).
-- [ ] Trabalhar com repositórios remotos (`git remote`, `git push`, `git pull`).
+- [x] Ramificação e mesclagem de branches (`git branch`, `git merge`).
+- [x] Trabalhar com repositórios remotos (`git remote`, `git push`, `git pull`).
 - [ ] Resolver conflitos de mesclagem (`git merge`, `git rebase`).
 - [ ] Gerenciamento de branches (`git checkout`, `git stash`, `git cherry-pick`).
 - [ ] Uso de tags para marcar commits (`git tag`).
