@@ -9,7 +9,7 @@ This is a repository created with the purpose of learning and practicing the use
 - [x] Understand the basic concepts of Git.
 - [x] Master fundamental Git commands like `add`, `commit`, `push`, `pull`, `merge`, and `branch`.
 - [ ] Explore advanced functionalities including rebase, stash, and cherry-pick.
-- [ ] Grasp the structure of GitHub and its functionalities.
+- [x] Grasp the structure of GitHub and its functionalities.
 - [ ] Learn collaboration in projects using forks, pull requests, and issues.
 - [ ] Explore best practices in code versioning.
 
@@ -37,7 +37,7 @@ Este é um repositório criado com o propósito de aprender e praticar o uso do 
 - [x] Compreender os conceitos básicos do Git.
 - [x] Dominar comandos fundamentais do Git, como `add`, `commit`, `push`, `pull`, `merge`, e `branch`.
 - [ ] Explorar funcionalidades avançadas, incluindo rebase, stash e cherry-pick.
-- [ ] Compreender a estrutura do GitHub e suas funcionalidades.
+- [x] Compreender a estrutura do GitHub e suas funcionalidades.
 - [ ] Aprender a colaborar em projetos usando forks, pull requests e issues.
 - [ ] Explorar boas práticas de versionamento de código.
 
