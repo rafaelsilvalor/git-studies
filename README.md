@@ -6,8 +6,8 @@ This is a repository created with the purpose of learning and practicing the use
 
 ### Objectives
 
-- [ ] Understand the basic concepts of Git.
-- [ ] Master fundamental Git commands like `add`, `commit`, `push`, `pull`, `merge`, and `branch`.
+- [x] Understand the basic concepts of Git.
+- [x] Master fundamental Git commands like `add`, `commit`, `push`, `pull`, `merge`, and `branch`.
 - [ ] Explore advanced functionalities including rebase, stash, and cherry-pick.
 - [ ] Grasp the structure of GitHub and its functionalities.
 - [ ] Learn collaboration in projects using forks, pull requests, and issues.
@@ -15,9 +15,9 @@ This is a repository created with the purpose of learning and practicing the use
 
 ### Topics Covered
 
-- [ ] Initializing a Git repository (`git init`).
-- [ ] Adding files to the repository (`git add`).
-- [ ] Creating commits with descriptive messages (`git commit`).
+- [X] Initializing a Git repository (`git init`).
+- [x] Adding files to the repository (`git add`).
+- [x] Creating commits with descriptive messages (`git commit`).
 - [ ] Branching and merging branches (`git branch`, `git merge`).
 - [ ] Working with remote repositories (`git remote`, `git push`, `git pull`).
 - [ ] Resolving merge conflicts (`git merge`, `git rebase`).
